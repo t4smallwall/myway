@@ -1,0 +1,160 @@
+*{
+	margin:0;
+	padding:0;
+}
+html,body {
+	height: 100%;
+	background-color: #000000;##4D4D4D;
+}
+
+.mainbodydiv {
+	height:100%;
+	width:100%
+	margin: 0.25% 0.25% 0.25% 0.25%;
+	font-size:100%
+}
+.tabsdiv {
+	background-color: #2D2D1D;
+	height: 100%;
+	width: 15%;
+	position: relative;
+	#border-right:3px solid #1E90FF;
+	padding:0.25% 0.25% 0.25% 0.25%;
+	margin: 0.25% 0.25% 0.25% 0.25%;
+	float:left;
+}
+.tabitemdiv {
+	background-color: #C28412;
+	height: 32%;
+	width: 95%;
+	position: relative;
+	border:3px solid #000000;
+	padding:0.25% 0.25% 0.25% 0.25%;
+	margin: 0.25% 0.25% 0.25% 0.25%;
+	float:left;
+	text-align: center;
+	font-family: "Impact", Charcoal, sans-serif;
+	font-size: 175%;
+}
+.tabitemdivhover{
+	background-color: #cccc33;
+	font-weight: bolder;
+	font-size:185%
+}
+.restofbodydiv {
+	background-color: #2D2D1D;
+	position: relative;
+	height: 100%;
+	width: 79.75%;
+	float:left;
+	padding:0.5% 0.5% 0.5% 1.5%;
+	margin: 0.25% 0.25% 0.25% 0.25%;
+}
+.restofbodydiv2 {
+	background-color: #4D4D1D;
+	position: relative;
+	height: 100%;
+	width: 79.75%;
+	float:left;
+	padding:0.5% 0.5% 0.5% 1.5%;
+	margin: 0.25% 0.25% 0.25% 0.25%;
+}
+.header{
+	background-color: #000000;
+	#font-family: sans-serif;
+	text-align: center;
+	color: #C28412;
+	position: relative;	
+	float:left;
+	height: 15%;
+	width: 98.5%;
+	padding:0.5% 0.5% 0.5% 0.5%;
+	margin: 0.25% 0.25% 0.25% 0.25%;
+}
+.logo{
+	background-color: #000000;
+	position: relative;	
+	float:left;
+	height: 80%;
+	width: 10%%;
+	padding:0.25% 0.25% 0.25% 0.25%;
+	margin: 0.25% 0.25% 0.25% 0.25%;
+}
+.tagline{
+	background-color: #000000;
+	font-family: cursive;
+	text-align: left;
+	color: #C28412;
+	position: relative;	
+	float:left;
+	height: 80%;
+	width: 70%;
+	padding:0.5% 0.5% 0.5% 0.5%;
+	margin: 0.25% 0.25% 0.25% 0.25%;
+	font-size:120%
+	font-weight:bold;
+	font-style:italic;
+}
+.tail{
+	background-color: #000000;
+	font-family: "Impact", Charcoal, sans-serif;
+	text-align: center;
+	color: #ADFF2F;
+	position: relative;	
+	float:left;
+	height: 10%;
+	width: 98.5%;
+	padding:0.5% 0.5% 0.5% 0.5%;
+	margin: 0.25% 0.25% 0.25% 0.25%;
+	border-top:3px solid #ADFF2F;
+}
+h1 {
+	##background-color: #2D2D1D;
+	text-align: center;
+	color: #C28412;
+	position: relative;
+}
+.psimple {
+	color: #4D4D4D;
+	background-color: #E5E5E5;
+	font-weight: normal;
+	font-family: sans-serif;
+}
+
+a:link {
+	color: #0000FF;
+	font-weight: bold;
+	font-style: normal;
+}
+a:visited {
+	color: #ADD8E6;
+}
+a:active {
+	color: #A020F0;
+}
+a:hover {
+	color: #FFFF00;
+	font-weight: bolder;
+	font-size:150%
+}
+.tabitem{
+	color: #A020F0;
+	font-weight: bolder;
+	font-size:150%
+}
+.tabbanner{
+	color: #FFFFCC;
+	font-weight: bolder;
+	font-size:500%
+}
+.tabcontent{
+	color: #FFFFCC;
+	font-weight: bolder;
+	font-size:200%
+	##font-family: cursive;
+	font-family: "SFArchRivalRegular", "Marker Felt", "Comic Sans MS", cursive;
+	color: #C28412;
+	position: relative;	
+	font-style:italic;
+}
+
